@@ -109,7 +109,6 @@ function RecipeInProgress({ match: { params: { id } }, location, history }) {
   // Lida com o clique do botão "Finish Recipe"
   const handleFinishButton = () => {
     const doneDate = new Date();
-    console.log(doneDate);
     const objectToSetDoneRecipes = {
       id: idMeal || idDrink,
       type: idMeal ? 'meal' : 'drink',
