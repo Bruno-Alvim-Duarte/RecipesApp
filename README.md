@@ -42,7 +42,7 @@ Este foi um projeto em grupo de 5 pessoas, nós desenvolvemos um app de receitas
 
 ## Relato Pesoal :speaking_head:
 
-Foi um projeto longo feito em 9 dias, com 62 requisitos, nos obrigando a dividir o trabalho de forma inteligente e compreensiva. Por ser um trabalho em grupo, pudemos trabalhar o versionamento em `git` de forma muito intensa, tivemos que resolver vários conflitos entre `branches`. Nós também pudemos trabalhar muitas soft skills como comunicação, compreensão e cooperação. Cada um deu o melhor de si para poder entregar o projeto da melhor forma possível. Tivemos o direcionamento do CSS ao mobile first, pois nossa apresentação seria feita no formato mobile e por considerarmos uma boa prática, desenvolvemos baseado no seguinte Figma.
+Foi um projeto longo feito em 9 dias, com 62 requisitos, nos obrigando a dividir o trabalho de forma inteligente e compreensiva. Por ser um trabalho em grupo, pudemos trabalhar o versionamento em `git` de forma muito intensa, tivemos que resolver vários conflitos entre `branches`. Nós também pudemos trabalhar muitas soft skills como comunicação, compreensão e cooperação. Cada um deu o melhor de si para poder entregar o projeto da melhor forma possível. Tivemos o direcionamento do CSS ao mobile first, pois nossa apresentação seria feita no formato mobile e por considerarmos uma boa prática, desenvolvemos baseado no seguinte <a href="https://www.figma.com/file/9WXNFMewKRBC5ZawU1EXYG/%5BProjeto%5D%5BFrontend%5D-Recipes-App?node-id=0-1" target="_blank">Figma</a>.
 
 Também foi uma oportunidade muito boa de desenvolvermos nossa habilidade com a biblioteca `React Testing Library`, já que precisamos desenvolver testes unitários para cobrir 100% da aplicação.
 
