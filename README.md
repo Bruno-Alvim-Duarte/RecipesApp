@@ -2,7 +2,7 @@
 # Boas-vindas ao repositório do projeto App de Receitas 🍕 🍔
 
 
-## +++++++ FOTO DE APRESENTAÇÃO 📹 ++++++++++
+## +++++++ GIF DE APRESENTAÇÃO 📹 ++++++++++
   
 <img width="300" src="https://user-images.githubusercontent.com/14060102/225670156-2684b95b-eb39-4fe9-9eb6-32b7557e30f2.gif" />
   
